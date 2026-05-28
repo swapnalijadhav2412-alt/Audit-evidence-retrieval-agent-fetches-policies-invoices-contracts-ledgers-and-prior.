@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+crewai
+chromadb
+pypdf
+tiktoken
+openai
+streamlit
+fastapi
+uvicorn
+sentence-transformers
+python-dotenv
