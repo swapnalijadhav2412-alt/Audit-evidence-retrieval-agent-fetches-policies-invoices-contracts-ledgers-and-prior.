@@ -1,0 +1,2 @@
+# Audit-evidence-retrieval-agent-fetches-policies-invoices-contracts-ledgers-and-prior.
+This agent’s job is to take an audit query such as a control ID, invoice number, vendor name, journal entry, or transaction ID, then retrieve all relevant supporting evidence from enterprise sources in one place. Relevant evidence commonly includes general ledgers, journal vouchers, bank statements, contracts, loan documents, control .,
